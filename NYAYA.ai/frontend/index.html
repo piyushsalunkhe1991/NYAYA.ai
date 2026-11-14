@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NYAYA.ai - AI Legal Adviser for Indian Citizens</title><link rel="stylesheet" href="css/styles.css"></head>
+<body>
+<nav class="nav"><a class="logo" href="#">NYAYA<span>.ai</span></a>
+<div class="nav-links"><a href="#features">Features</a><a href="#how">How it works</a><a href="#topics">Legal topics</a><a class="btn btn-gold btn-sm" href="app.html">Get Started</a></div></nav>
+
+<header class="hero"><span class="badge">न्याय सबके लिए · Justice for everyone</span>
+<h1>Understand Indian law in <em>simple language</em></h1>
+<p>Ask legal questions in Hindi or English, analyse legal documents, learn your rights and find landmark judgments, all in one place.</p>
+<a class="btn btn-gold" href="app.html">Get Started →</a></header>
+
+<section class="block" id="features"><h2>Everything you need to understand your legal position</h2>
+<p class="sub">Built for ordinary citizens, not lawyers.</p>
+<div class="grid">
+<div class="card"><div class="ic">💬</div><h3>AI Legal Chat</h3><p>Ask about Indian laws in Hindi or English and get structured, plain-language answers with follow-up questions.</p></div>
+<div class="card"><div class="ic">📄</div><h3>Document Analyzer</h3><p>Upload a PDF agreement or notice. Get a summary, key dates, parties and difficult clauses explained.</p></div>
+<div class="card"><div class="ic">📚</div><h3>Know Your Rights</h3><p>Fundamental, consumer, women's, labour, tenant and cyber rights with official sources.</p></div>
+<div class="card"><div class="ic">🔍</div><h3>Case Search</h3><p>Find landmark judgments with links to the source. No invented citations, ever.</p></div>
+<div class="card"><div class="ic">🗂️</div><h3>Personal Dashboard</h3><p>Your conversations, saved answers, analysed documents and search history in one place.</p></div>
+<div class="card"><div class="ic">🛡️</div><h3>Honest by design</h3><p>If the AI is unavailable or cannot verify something, NYAYA.ai tells you instead of guessing.</p></div>
+</div></section>
+
+<section class="band"><div class="block" id="how"><h2>How it works</h2><p class="sub">Three steps from confusion to clarity.</p>
+<div class="grid steps">
+<div class="card step"><h3>Ask or upload</h3><p style="color:var(--muted)">Type your question or upload a PDF document.</p></div>
+<div class="card step"><h3>Get a clear explanation</h3><p style="color:var(--muted)">The assistant explains in simple language, grounded in curated Indian legal references.</p></div>
+<div class="card step"><h3>Take informed action</h3><p style="color:var(--muted)">Follow suggested steps, verify at official sources, and consult an advocate where needed.</p></div>
+</div></div></section>
+
+<section class="block" id="topics"><h2>Legal information categories</h2><p class="sub">Including the new criminal laws: BNS, BNSS and BSA.</p>
+<div class="grid" id="topicGrid"></div></section>
+
+<footer><a class="logo" href="#">NYAYA<span>.ai</span></a>AI Legal Adviser for Indian Citizens · Final-year major project
+<p class="disc">NYAYA.ai provides general legal information, not legal advice. It is not a substitute for a qualified advocate. Free legal aid is available through NALSA (helpline 15100).</p></footer>
+<script>
+const base=location.protocol==='file:'?'http://127.0.0.1:8000':'';
+fetch(base+'/api/legal/categories').then(r=>r.json()).then(d=>{
+ document.getElementById('topicGrid').innerHTML=d.categories.map(c=>`<a class="card" href="app.html#rights" style="text-decoration:none;color:inherit"><div class="ic">${c.icon}</div><h3>${c.title}</h3><p>${c.summary.slice(0,110)}…</p></a>`).join('');
+}).catch(()=>{document.getElementById('topicGrid').innerHTML='<p class="empty">Start the backend to load topics.</p>'});
+</script></body></html>

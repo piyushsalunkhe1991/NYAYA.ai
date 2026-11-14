@@ -1,0 +1,24 @@
+{
+  "note": "Curated index of widely cited Supreme Court of India judgments (title, court, year, topics only). It is NOT exhaustive and contains no summaries. Open the source link to read the actual judgment.",
+  "cases": [
+    {"title": "Kesavananda Bharati v. State of Kerala", "court": "Supreme Court of India", "year": 1973, "category": "fundamental", "topics": ["basic structure", "constitution", "constitutional amendment", "parliament power"]},
+    {"title": "Maneka Gandhi v. Union of India", "court": "Supreme Court of India", "year": 1978, "category": "fundamental", "topics": ["article 21", "personal liberty", "passport", "due process", "fair procedure"]},
+    {"title": "Justice K.S. Puttaswamy (Retd.) v. Union of India", "court": "Supreme Court of India", "year": 2017, "category": "fundamental", "topics": ["right to privacy", "privacy", "aadhaar", "data protection", "article 21"]},
+    {"title": "Navtej Singh Johar v. Union of India", "court": "Supreme Court of India", "year": 2018, "category": "fundamental", "topics": ["section 377", "dignity", "equality", "lgbtq"]},
+    {"title": "Olga Tellis v. Bombay Municipal Corporation", "court": "Supreme Court of India", "year": 1985, "category": "fundamental", "topics": ["right to livelihood", "eviction", "pavement dwellers", "article 21"]},
+    {"title": "D.K. Basu v. State of West Bengal", "court": "Supreme Court of India", "year": 1997, "category": "criminal", "topics": ["arrest", "custodial violence", "police", "detention", "arrest guidelines"]},
+    {"title": "Lalita Kumari v. Government of Uttar Pradesh", "court": "Supreme Court of India", "year": 2013, "category": "criminal", "topics": ["fir", "registration of fir", "cognizable offence", "police complaint"]},
+    {"title": "Arnesh Kumar v. State of Bihar", "court": "Supreme Court of India", "year": 2014, "category": "criminal", "topics": ["arrest", "bail", "dowry", "498a", "cruelty", "unnecessary arrest"]},
+    {"title": "Hussainara Khatoon v. Home Secretary, State of Bihar", "court": "Supreme Court of India", "year": 1979, "category": "criminal", "topics": ["speedy trial", "undertrial prisoners", "legal aid", "bail"]},
+    {"title": "Vishaka v. State of Rajasthan", "court": "Supreme Court of India", "year": 1997, "category": "women", "topics": ["sexual harassment", "workplace", "women safety", "posh", "guidelines"]},
+    {"title": "Mohd. Ahmed Khan v. Shah Bano Begum", "court": "Supreme Court of India", "year": 1985, "category": "women", "topics": ["maintenance", "divorce", "section 125", "alimony"]},
+    {"title": "Joseph Shine v. Union of India", "court": "Supreme Court of India", "year": 2018, "category": "women", "topics": ["adultery", "section 497", "equality", "marriage"]},
+    {"title": "Laxmi v. Union of India", "court": "Supreme Court of India", "year": 2014, "category": "women", "topics": ["acid attack", "compensation", "sale of acid", "victim"]},
+    {"title": "Shreya Singhal v. Union of India", "court": "Supreme Court of India", "year": 2015, "category": "cyber", "topics": ["section 66a", "free speech", "online speech", "it act", "internet"]},
+    {"title": "Anvar P.V. v. P.K. Basheer", "court": "Supreme Court of India", "year": 2014, "category": "cyber", "topics": ["electronic evidence", "section 65b", "certificate", "evidence act"]},
+    {"title": "Indian Medical Association v. V.P. Shantha", "court": "Supreme Court of India", "year": 1995, "category": "consumer", "topics": ["medical negligence", "doctors", "consumer protection", "deficiency in service"]},
+    {"title": "Lucknow Development Authority v. M.K. Gupta", "court": "Supreme Court of India", "year": 1993, "category": "consumer", "topics": ["deficiency in service", "housing", "public authority", "compensation"]},
+    {"title": "Bandhua Mukti Morcha v. Union of India", "court": "Supreme Court of India", "year": 1984, "category": "labour", "topics": ["bonded labour", "forced labour", "article 23", "migrant workers"]},
+    {"title": "Bangalore Water Supply and Sewerage Board v. A. Rajappa", "court": "Supreme Court of India", "year": 1978, "category": "labour", "topics": ["industry definition", "industrial disputes", "workman"]}
+  ]
+}

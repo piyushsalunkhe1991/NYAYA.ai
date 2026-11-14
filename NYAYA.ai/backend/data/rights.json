@@ -1,0 +1,190 @@
+{
+  "note": "Curated overview for awareness only. Acts and Articles are cited by name; section numbers are limited to ones widely published. Always confirm the current text on India Code (indiacode.nic.in) and consult a qualified advocate.",
+  "categories": [
+    {
+      "id": "fundamental",
+      "title": "Fundamental Rights",
+      "title_hi": "मौलिक अधिकार",
+      "icon": "⚖️",
+      "summary": "Basic rights guaranteed to every person in India by Part III of the Constitution. Most can be enforced directly in the Supreme Court (Article 32) or a High Court (Article 226).",
+      "keywords": ["fundamental right", "article 14", "article 19", "article 21", "article 32", "constitution", "equality", "freedom", "liberty", "speech", "arrest", "detention", "मौलिक", "संविधान", "अधिकार", "स्वतंत्रता", "समानता"],
+      "rights": [
+        {"title": "Right to Equality (Articles 14-18)", "explanation": "The State must treat everyone equally before the law. Discrimination on grounds of religion, race, caste, sex or place of birth is prohibited (Article 15), and there is equality of opportunity in public employment (Article 16). Untouchability is abolished (Article 17)."},
+        {"title": "Right to Freedom (Articles 19-22)", "explanation": "Includes freedom of speech and expression, peaceful assembly, forming associations, movement, residence and practising a profession (Article 19), subject to reasonable restrictions. Article 20 protects against retrospective punishment and self-incrimination. Article 21 protects life and personal liberty. Article 22 gives safeguards on arrest: to be told the grounds, to consult a lawyer, and to be produced before a magistrate within 24 hours."},
+        {"title": "Right against Exploitation (Articles 23-24)", "explanation": "Forced labour and human trafficking are prohibited. Children below 14 cannot be employed in factories, mines or other hazardous work."},
+        {"title": "Right to Freedom of Religion (Articles 25-28)", "explanation": "Every person may freely profess, practise and propagate religion, subject to public order, morality and health."},
+        {"title": "Cultural and Educational Rights (Articles 29-30)", "explanation": "Minorities can protect their language, script and culture, and set up educational institutions of their choice."},
+        {"title": "Right to Constitutional Remedies (Article 32)", "explanation": "You can go directly to the Supreme Court if a fundamental right is violated. High Courts can be approached under Article 226."},
+        {"title": "Right to Education (Article 21A)", "explanation": "Free and compulsory education for children aged 6 to 14."}
+      ],
+      "references": [
+        {"label": "Constitution of India, Part III (Articles 12-35)", "note": "Fundamental Rights"},
+        {"label": "Article 21A", "note": "Right to education, inserted by the 86th Amendment"}
+      ],
+      "helplines": [{"name": "NALSA free legal aid", "number": "15100"}, {"name": "Emergency", "number": "112"}],
+      "sources": [
+        {"name": "Constitution of India (Legislative Department)", "url": "https://legislative.gov.in/constitution-of-india/"},
+        {"name": "India Code", "url": "https://www.indiacode.nic.in/"}
+      ]
+    },
+    {
+      "id": "consumer",
+      "title": "Consumer Rights",
+      "title_hi": "उपभोक्ता अधिकार",
+      "icon": "🛒",
+      "summary": "The Consumer Protection Act, 2019 protects buyers of goods and services, including online shoppers, against defective goods, deficient services and unfair trade practices.",
+      "keywords": ["consumer", "refund", "defective", "product", "warranty", "e-commerce", "online shopping", "deficiency", "overcharging", "mrp", "consumer court", "उपभोक्ता", "रिफंड", "खराब", "सामान", "ग्राहक"],
+      "rights": [
+        {"title": "Right to Safety, Information and Choice", "explanation": "You have the right to be protected from hazardous goods, to know quality, quantity, price and ingredients, and to choose among competing products."},
+        {"title": "Right to be Heard and to Seek Redressal", "explanation": "You can file a complaint before the District, State or National Consumer Disputes Redressal Commission depending on the value of the claim."},
+        {"title": "Product liability and unfair trade practices", "explanation": "Manufacturers, sellers and service providers can be held liable for harm from defective products or services. Misleading advertisements can be acted on by the Central Consumer Protection Authority (CCPA)."},
+        {"title": "E-commerce protection", "explanation": "Online sellers and platforms have duties under the Consumer Protection (E-Commerce) Rules, 2020, including displaying seller details and handling grievances."},
+        {"title": "Online complaints", "explanation": "Complaints can be filed online through the e-Daakhil portal. The National Consumer Helpline (1915) offers pre-litigation help."}
+      ],
+      "references": [
+        {"label": "Consumer Protection Act, 2019", "note": "Main consumer law"},
+        {"label": "Consumer Protection (E-Commerce) Rules, 2020", "note": "Online shopping rules"}
+      ],
+      "helplines": [{"name": "National Consumer Helpline", "number": "1915"}],
+      "sources": [
+        {"name": "National Consumer Helpline", "url": "https://consumerhelpline.gov.in/"},
+        {"name": "Department of Consumer Affairs", "url": "https://consumeraffairs.nic.in/"},
+        {"name": "e-Daakhil (file a complaint)", "url": "https://edaakhil.nic.in/"}
+      ]
+    },
+    {
+      "id": "women",
+      "title": "Women's Rights",
+      "title_hi": "महिला अधिकार",
+      "icon": "👩",
+      "summary": "Indian law provides specific protection against domestic violence, workplace sexual harassment, dowry demands and sexual offences, along with maintenance and maternity rights.",
+      "keywords": ["women", "woman", "domestic violence", "dowry", "harassment", "posh", "maternity", "maintenance", "stalking", "rape", "498a", "husband", "cruelty", "महिला", "घरेलू हिंसा", "दहेज", "उत्पीड़न", "पति", "मातृत्व"],
+      "rights": [
+        {"title": "Protection from domestic violence", "explanation": "The Protection of Women from Domestic Violence Act, 2005 covers physical, emotional, sexual and economic abuse. A woman can seek protection orders, residence orders and monetary relief through a Magistrate, with help from a Protection Officer."},
+        {"title": "Cruelty by husband or relatives", "explanation": "Cruelty to a married woman by her husband or his relatives, including harassment for dowry, is a criminal offence (Section 85 of the Bharatiya Nyaya Sanhita, 2023, which replaced Section 498A of the IPC). The Dowry Prohibition Act, 1961 also applies."},
+        {"title": "Safe workplace", "explanation": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 requires employers with 10 or more employees to set up an Internal Committee to hear complaints."},
+        {"title": "Zero FIR and free legal aid", "explanation": "A complaint of a serious offence can be registered at any police station irrespective of where it happened, and it is then transferred. Women are entitled to free legal services through legal services authorities."},
+        {"title": "Maternity benefits", "explanation": "Under the Maternity Benefit Act, 1961 (as amended in 2017) eligible women employees get paid maternity leave of 26 weeks for the first two children."},
+        {"title": "Stalking and sexual harassment", "explanation": "Stalking (Section 78 BNS) and sexual harassment (Section 75 BNS) are punishable offences."}
+      ],
+      "references": [
+        {"label": "Protection of Women from Domestic Violence Act, 2005", "note": "Civil remedies against domestic abuse"},
+        {"label": "Sexual Harassment of Women at Workplace Act, 2013", "note": "POSH Act"},
+        {"label": "Bharatiya Nyaya Sanhita, 2023 - Sections 75, 78, 85", "note": "Verify current text on India Code"},
+        {"label": "Maternity Benefit Act, 1961", "note": "Paid maternity leave"}
+      ],
+      "helplines": [{"name": "Women Helpline", "number": "181"}, {"name": "Emergency", "number": "112"}, {"name": "NALSA free legal aid", "number": "15100"}],
+      "sources": [
+        {"name": "National Commission for Women", "url": "https://ncw.nic.in/"},
+        {"name": "Ministry of Women and Child Development", "url": "https://wcd.nic.in/"},
+        {"name": "India Code", "url": "https://www.indiacode.nic.in/"}
+      ]
+    },
+    {
+      "id": "cyber",
+      "title": "Cybercrime Awareness",
+      "title_hi": "साइबर अपराध जागरूकता",
+      "icon": "🛡️",
+      "summary": "Online fraud, identity theft, harassment and privacy violations are covered by the Information Technology Act, 2000 and the Bharatiya Nyaya Sanhita, 2023.",
+      "keywords": ["cyber", "online fraud", "upi", "phishing", "hacking", "identity theft", "otp", "sextortion", "deepfake", "data privacy", "dpdp", "it act", "scam", "साइबर", "ठगी", "धोखाधड़ी", "ऑनलाइन", "हैकिंग", "डेटा"],
+      "rights": [
+        {"title": "Report quickly", "explanation": "For online financial fraud, call 1930 immediately; the faster you report, the better the chance of freezing the money. You can also file a complaint at the National Cyber Crime Reporting Portal."},
+        {"title": "Identity theft and cheating by personation", "explanation": "Sections 66C and 66D of the IT Act, 2000 punish using someone's password or identity and cheating by impersonation using a computer resource."},
+        {"title": "Privacy violations", "explanation": "Section 66E of the IT Act punishes capturing or publishing private images without consent. Section 67 deals with publishing obscene material electronically."},
+        {"title": "Cheating", "explanation": "Online cheating can also be prosecuted as cheating under Section 318 of the Bharatiya Nyaya Sanhita, 2023."},
+        {"title": "Personal data", "explanation": "The Digital Personal Data Protection Act, 2023 gives individuals rights over their personal data, such as access, correction and grievance redressal, and places duties on organisations that process it. Check which provisions are in force."},
+        {"title": "Keep evidence", "explanation": "Save screenshots, transaction IDs, URLs, phone numbers and messages. Do not delete chats. Never share OTPs, PINs or passwords."}
+      ],
+      "references": [
+        {"label": "Information Technology Act, 2000 - Sections 66C, 66D, 66E, 67", "note": "Verify current text on India Code"},
+        {"label": "Digital Personal Data Protection Act, 2023", "note": "Data protection"},
+        {"label": "Bharatiya Nyaya Sanhita, 2023 - Section 318", "note": "Cheating"}
+      ],
+      "helplines": [{"name": "Cyber crime financial fraud helpline", "number": "1930"}],
+      "sources": [
+        {"name": "National Cyber Crime Reporting Portal", "url": "https://cybercrime.gov.in/"},
+        {"name": "CERT-In", "url": "https://www.cert-in.org.in/"},
+        {"name": "India Code", "url": "https://www.indiacode.nic.in/"}
+      ]
+    },
+    {
+      "id": "labour",
+      "title": "Labour Rights",
+      "title_hi": "श्रम अधिकार",
+      "icon": "👷",
+      "summary": "Workers are protected on wages, working conditions, social security and dismissal. India has consolidated many older laws into four Labour Codes.",
+      "keywords": ["labour", "labor", "worker", "salary", "wages", "minimum wage", "pf", "epf", "provident fund", "gratuity", "esi", "termination", "overtime", "employer", "job", "fired", "bonus", "श्रम", "मजदूर", "वेतन", "नौकरी", "कर्मचारी", "पीएफ", "ग्रेच्युटी"],
+      "rights": [
+        {"title": "Timely and minimum wages", "explanation": "Employers must pay at least the applicable minimum wage and pay on time. Unlawful deductions are not allowed. These rules are now in the Code on Wages, 2019."},
+        {"title": "Provident fund, ESI and gratuity", "explanation": "Eligible employees get provident fund, health insurance through ESIC and gratuity after the qualifying service period, now covered by the Code on Social Security, 2020."},
+        {"title": "Safe working conditions", "explanation": "Employers must provide a safe workplace, with limits on working hours and overtime pay, under the Occupational Safety, Health and Working Conditions Code, 2020."},
+        {"title": "Industrial disputes and dismissal", "explanation": "Rules on layoffs, retrenchment and raising a dispute are in the Industrial Relations Code, 2020. Workers can approach the labour authorities or conciliation officer."},
+        {"title": "Check commencement", "explanation": "The four Labour Codes replace many older Acts. Check the Ministry of Labour and Employment for which provisions and state rules currently apply."}
+      ],
+      "references": [
+        {"label": "Code on Wages, 2019", "note": "Wages and bonus"},
+        {"label": "Industrial Relations Code, 2020", "note": "Trade unions, disputes, termination"},
+        {"label": "Code on Social Security, 2020", "note": "PF, ESI, gratuity"},
+        {"label": "Occupational Safety, Health and Working Conditions Code, 2020", "note": "Safety and hours"}
+      ],
+      "helplines": [{"name": "NALSA free legal aid", "number": "15100"}],
+      "sources": [
+        {"name": "Ministry of Labour and Employment", "url": "https://labour.gov.in/"},
+        {"name": "EPFO", "url": "https://www.epfindia.gov.in/"},
+        {"name": "India Code", "url": "https://www.indiacode.nic.in/"}
+      ]
+    },
+    {
+      "id": "tenant",
+      "title": "Tenant Rights",
+      "title_hi": "किरायेदार अधिकार",
+      "icon": "🏠",
+      "summary": "Rental rules in India are mainly state laws. The Model Tenancy Act, 2021 is a central template that states may adopt, so your rights depend on your state.",
+      "keywords": ["tenant", "landlord", "rent", "rental", "eviction", "security deposit", "lease", "agreement", "house owner", "tenancy", "किरायेदार", "मकान मालिक", "किराया", "किराए", "सिक्योरिटी", "बेदखली"],
+      "rights": [
+        {"title": "Written agreement", "explanation": "Always have a written rent or lease agreement. A lease of immovable property for more than one year must be registered (Registration Act, 1908; Transfer of Property Act, 1882). Many people use an 11-month agreement, but the rules and stamp duty vary by state."},
+        {"title": "No arbitrary eviction", "explanation": "A landlord generally cannot throw a tenant out without following legal procedure and valid grounds under the applicable state rent law. Cutting off water or electricity to force a tenant out is not permitted."},
+        {"title": "Security deposit", "explanation": "The deposit should be refunded after deducting only lawful dues. The Model Tenancy Act, 2021 proposes limits on deposits, but it applies only where your state has adopted it."},
+        {"title": "Notice and rent increase", "explanation": "Rent changes and termination usually require notice as per the agreement and state law."},
+        {"title": "Keep records", "explanation": "Pay by bank transfer, ask for receipts and keep photos of the property condition at move-in."}
+      ],
+      "references": [
+        {"label": "Model Tenancy Act, 2021", "note": "Central model law; applies only if adopted by the state"},
+        {"label": "Transfer of Property Act, 1882", "note": "Leases"},
+        {"label": "Registration Act, 1908", "note": "Registration of leases"},
+        {"label": "Your State Rent Control Act", "note": "Varies by state"}
+      ],
+      "helplines": [{"name": "NALSA free legal aid", "number": "15100"}],
+      "sources": [
+        {"name": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/"},
+        {"name": "India Code", "url": "https://www.indiacode.nic.in/"}
+      ]
+    },
+    {
+      "id": "criminal",
+      "title": "New Criminal Laws (BNS, BNSS, BSA)",
+      "title_hi": "नए आपराधिक कानून",
+      "icon": "📜",
+      "summary": "From 1 July 2024, three new laws replaced the colonial-era criminal laws: the Bharatiya Nyaya Sanhita (BNS) replaced the IPC, the Bharatiya Nagarik Suraksha Sanhita (BNSS) replaced the CrPC, and the Bharatiya Sakshya Adhiniyam (BSA) replaced the Indian Evidence Act.",
+      "keywords": ["bns", "bnss", "bsa", "ipc", "crpc", "fir", "bail", "arrest", "police", "complaint", "police station", "evidence", "murder", "theft", "cheating", "criminal", "offence", "भारतीय न्याय संहिता", "एफआईआर", "जमानत", "गिरफ्तारी", "पुलिस", "अपराध"],
+      "rights": [
+        {"title": "BNS replaces the IPC", "explanation": "The Bharatiya Nyaya Sanhita, 2023 defines offences and punishments. Examples: murder (Section 103), theft (Section 303), cheating (Section 318). Old IPC section numbers have changed, so check the BNS number for offences from 1 July 2024 onwards."},
+        {"title": "BNSS replaces the CrPC", "explanation": "The Bharatiya Nagarik Suraksha Sanhita, 2023 governs procedure: FIR, arrest, bail, investigation and trial. It also allows electronic reporting of offences and recognises Zero FIR."},
+        {"title": "BSA replaces the Evidence Act", "explanation": "The Bharatiya Sakshya Adhiniyam, 2023 governs what counts as evidence, and expressly recognises electronic records."},
+        {"title": "Your rights on arrest", "explanation": "You must be told the grounds of arrest, can inform a relative or friend, can consult a lawyer, and must be produced before a Magistrate within 24 hours (Article 22 of the Constitution)."},
+        {"title": "Offences before 1 July 2024", "explanation": "Offences committed before that date are generally still dealt with under the old laws. Ask a lawyer which law applies to your case."}
+      ],
+      "references": [
+        {"label": "Bharatiya Nyaya Sanhita, 2023", "note": "Substantive criminal law"},
+        {"label": "Bharatiya Nagarik Suraksha Sanhita, 2023", "note": "Criminal procedure"},
+        {"label": "Bharatiya Sakshya Adhiniyam, 2023", "note": "Evidence law"}
+      ],
+      "helplines": [{"name": "Emergency", "number": "112"}, {"name": "NALSA free legal aid", "number": "15100"}],
+      "sources": [
+        {"name": "India Code", "url": "https://www.indiacode.nic.in/"},
+        {"name": "Ministry of Home Affairs", "url": "https://www.mha.gov.in/"},
+        {"name": "Legislative Department", "url": "https://legislative.gov.in/"}
+      ]
+    }
+  ]
+}
